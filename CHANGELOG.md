@@ -7,3 +7,4 @@
 - docs: clarify the setup steps
 - fix: clarify the setup steps
 - fix: link the usage section
+- fix: fix a small wording issue
